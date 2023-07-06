@@ -16,7 +16,7 @@ The player which shoot the first fire will be selected random. After each shoot 
 Every player which achive to the score limit first will be the winner of the game.<br>
 -------------------------------------------------------------</br>
 <b>How can we play? </b></br>
-Press on the $\color{orange}{Space}$ $\color{Key}{1}$ on the keyboard for setting the angle of the shoot.</br>
+Press on the $\color{orange}{Space}$ $\color{orange}{Key}$ on the keyboard for setting the angle of the shoot.</br>
 -------------------------------------------------------------</br>
 <b>Description of the code :</b></br>
 This code is wroted with the functions in $\color{yellow}{turtle}$ library only and not used from any photo for making the shapes.
