@@ -1,6 +1,6 @@
 # Shooting-Game
 The final project of University of Tehran at Spring 2023.</br></br>
-Inputs of the game
+Inputs of the game :</br>
 The name of the player_1</br>
 The name of the player_2</br>
 The score limit</br>
