@@ -23,4 +23,5 @@ Press on the $\color{orange}{L}$ $\color{orange}{Key}$ on the keyboard, for load
 -------------------------------------------------------------</br>
 <b>Description of the code :</b></br>
 This code is wroted with the functions in $\color{yellow}{turtle}$ library only and not used from any photo for making the shapes.
+For saving the data about the game is used from File.
 
