@@ -9,7 +9,7 @@ $\color{green}{4}$ -The speed of the game</br>
 <b>Rules of the game :</b></br>
 The first point of both players is 0 and each player have a ball in the game which move,So we have 2 ball in the game.</br>
 The first coordinates of the balls on the x-axis is random.</br>
-When the balls reach the end of the path,their directiond will be changed.</br>
+When the balls reach the end of the path,their direction will be changed.</br>
 If the player_1 shoot at own ball, will get -3 point and if shoot at the player_2 ball,will get +5 point and such like this is established for player_2.</br>
 The player which should shoot the first fire will be selected random.After each shoot the shooting-turn will be changed.</br>
 Every player which achive to the score limit first will be the winner of the game.<br>
