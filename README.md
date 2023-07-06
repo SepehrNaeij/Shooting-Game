@@ -18,6 +18,8 @@ Every player which achive to the score limit first will be the winner of the gam
 <b>How can we play? </b></br>
 Press on the $\color{orange}{Up}$ , $\color{orange}{Down}$ $\color{orange}{Key}$ on the keyboard, for setting the angle of the shoot.</br>
 Press on the $\color{orange}{Space}$ $\color{orange}{Key}$ on the keyboard, for shooting the fire.</br>
+Press on the $\color{orange}{S}$ $\color{orange}{Key}$ on the keyboard, for saving the current game.</br>
+Press on the $\color{orange}{L}$ $\color{orange}{Key}$ on the keyboard, for loading the last game.</br>
 -------------------------------------------------------------</br>
 <b>Description of the code :</b></br>
 This code is wroted with the functions in $\color{yellow}{turtle}$ library only and not used from any photo for making the shapes.
